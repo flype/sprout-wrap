@@ -1,7 +1,4 @@
 recipes:
-- meta::osx_base
-- meta::osx_development
-- meta::ruby_development
 - sprout-osx-settings::set_multitouch_preferences
 - sprout-osx-apps::chrome
 - sprout-osx-apps::ack
@@ -10,11 +7,12 @@ recipes:
 - sprout-osx-apps::adium
 - sprout-osx-apps::skype
 - sprout-osx-apps::menumeters
-- sprout-osx-apps::gpg
-- sprout-osx-apps::gitx
+- pivotal_workstation::gitx
+- pivotal_workstation::iterm2
 - sprout-osx-apps::sequelpro
 - sprout-osx-apps::propane
 - sprout-osx-apps::virtualbox
 - sprout-osx-apps::vagrant
+- sprout-osx-apps::alfred
 - sprout-osx-apps::zsh
-node_attributes:
+node_attributes:node_attributes:
