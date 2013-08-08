@@ -2,6 +2,7 @@ recipes:
 - meta::osx_base
 - meta::osx_development
 - meta::ruby_development
+- sprout-osx-settings::set_multitouch_preferences
 - sprout-osx-apps::chrome
 - sprout-osx-apps::ack
 - sprout-osx-apps::1password
