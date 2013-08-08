@@ -6,5 +6,8 @@ recipes:
 - sprout-osx-apps::1password
 - sprout-osx-apps::dropbox
 - sprout-osx-apps::vagrant
+- sprout-osx-apps::adium
+- sprout-osx-apps::gpg
+- sprout-osx-apps::propane
 - sprout-osx-apps::virtualbox
 node_attributes:
