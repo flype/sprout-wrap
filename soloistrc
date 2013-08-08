@@ -3,11 +3,17 @@ recipes:
 - meta::osx_development
 - meta::ruby_development
 - sprout-osx-apps::chrome
+- sprout-osx-apps::ack
 - sprout-osx-apps::1password
 - sprout-osx-apps::dropbox
-- sprout-osx-apps::vagrant
 - sprout-osx-apps::adium
+- sprout-osx-apps::skype
+- sprout-osx-apps::menumeters
 - sprout-osx-apps::gpg
+- sprout-osx-apps::gitx
+- sprout-osx-apps::sequelpro
 - sprout-osx-apps::propane
 - sprout-osx-apps::virtualbox
+- sprout-osx-apps::vagrant
+- sprout-osx-apps::zsh
 node_attributes:
